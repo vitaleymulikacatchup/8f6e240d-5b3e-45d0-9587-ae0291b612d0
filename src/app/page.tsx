@@ -67,7 +67,6 @@ export default function Home() {
           logoAlt="Brainrot Rabbits Logo"
           logoText="Brainrot Rabbits Coin"
           className="border-t border-gray-200"
-          logoClassName="font-bold"
         />
       </div>
     </SiteThemeProvider>
